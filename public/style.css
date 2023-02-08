@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.gn-m-t-home {
+    color: grey;
+}
+
+.m-p-content{
+    display: grid;
+}
+
+.m-p-info{
+    display: flex;
+    background-color: #F1F1F1;
+    padding: 0vh 10vw 0vh 12vw;
+    align-items: center;
+    justify-items: center;
+    height: 90vh;
+}
+
+.m-p-text{
+    display: grid;
+    margin-right: auto;
+    gap: 5vh;
+    padding: 0 0 10vh 0;
+}
+
+.m-p-t-name{
+    font-size: 2.5em;
+    font-weight: 500;
+}
+
+.m-p-t-info{
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.m-p-img{
+    width: 60%;
+    max-width: 100%;
+}
+
+.m-p-works{
+    padding: 20vh 5vw 20vh 5vw;
+    display: grid;
+    gap: 7vh;
+}
+
+.m-p-w-header{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+.m-p-list{
+    display: flex;
+    gap: 5vw;
+}
+
+.m-p-item{
+    list-style: none;
+}
+
+.m-p-l-link{
+    display: grid;
+    text-decoration: none;    
+    color: black;
+    font-weight: 550;
+    align-items: center;
+    justify-items: center;
+    height: 100%;
+    gap: 2vh;
+}
+
+.m-p-l-text{
+    margin-top: auto;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.m-p-l-img1{
+    max-width: 29%;
+}
+
+.m-p-l-img2{
+    max-width: 32%;
+}
+
+.m-p-l-img3{
+    max-width: 35%;
+    margin-top: -5%;
+}

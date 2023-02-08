@@ -1,0 +1,36 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.globalnav{
+    height: 5vh;
+    padding: 5vh 15vw 0vh 7vw;
+    background-color: #F1F1F1;
+}
+
+.gn-content{
+    display: flex;
+}
+
+.gn-logo{
+    /* findout */
+}
+
+.gn-m-list {
+    text-decoration-style: none;
+    list-style: none;
+    display: flex;
+    gap: 3vw;
+    margin-left: auto;
+}
+
+.gn-m-link{
+    text-decoration: none;
+    color: black;
+}
+
+.gn-m-text:hover{
+    color: grey;
+}
+

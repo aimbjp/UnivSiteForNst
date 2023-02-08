@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.gn-m-t-works {
+    color: grey;
+}
+
+.work-page{
+    padding: 15vh 5vw 15vh 5vw;
+}
+
+.w-p-content{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.w-p-c-header{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 3vw;
+    padding-bottom: 10vh;
+}
+
+.w-p-c-h-img{
+    width: 6vw;
+}
+
+.w-p-c-h-text{
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.w-p-c-tasks{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 5vw;
+}
+
+.w-p-c-link{
+    display: grid;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+    text-decoration: none;
+    color:black;
+    font-weight: 500;
+}
+
+.w-p-c-l-img-1{
+    width: 100%;
+}
+
+.w-p-c-l-img-2{
+    width: 100%;
+}
+
+.w-p-c-l-img-3{
+    width: 70%;
+    border: 1px solid black;
+}
+
+.w-p-c-l-text{
+    padding-top: 2vh;
+}
+
